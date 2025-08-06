@@ -27,6 +27,7 @@ The goal is to improve logical thinking and use of control structures.
 javac NumberGame.java
 
 # Run the program
+
 # 🎓 CodSoft Internship - Task 2: Student Grade Calculator
 
 ## 📌 Project Title
@@ -111,3 +112,4 @@ It uses predefined exchange rates to perform the conversion and displays the res
 javac CurrencyConverter.java
 
 java CurrencyConverter
+
